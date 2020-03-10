@@ -14,7 +14,7 @@ The objective of this project is to collect the data from the masterpieces of th
 - Data pipeline executing the project 
 
 ## Demo 
-![](Pipeline_demo_Artsper.mov)
+![](/Media/Pipeline_demo_Artsper.gif)
 
 ## Built With
 * [Python](https://docs.python.org/3/) - The programming language used
