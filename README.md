@@ -8,8 +8,8 @@ Artsper.com is a marketplace who sells masterpieces of art from various wellknow
 The objective of this project is to collect the data from the masterpieces of this website in order to see which artists where/are the most present in art galleries at a given decade and a given type of art.
 
 ## Process 
-- Web-scraping
-- Exporting data to MySQL
+- Web-scraping (masterpieces of Artsper.com)
+- Exporting data to MySQL 
 - Data cleaning
 - Data pipeline executing the project 
 
